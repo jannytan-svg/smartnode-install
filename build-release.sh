@@ -11,7 +11,6 @@
 # =================
 # === Functions ===
 # =================
-
 # Print a failure message to stderr and exit
 fail() {
     MESSAGE=$1
